@@ -17,6 +17,9 @@
 网络问题可以使用[jsdelivr cdn](https://www.jsdelivr.com/?docs=gh)，即[mainfest from jsdelivr](https://cdn.jsdelivr.net/gh/nanchengling/eso-repo/manifest)，链接：
 
 `https://cdn.jsdelivr.net/gh/nanchengling/eso-repo/manifest`
+版本[jsdelivr cdn](https://www.jsdelivr.com/?docs=gh)，即[mainfest from jsdelivr](https://cdn.jsdelivr.net/gh/nanchengling/eso-repo@1.0.0/manifest)，链接：
+
+`https://cdn.jsdelivr.net/gh/nanchengling/eso-repo@1.0.0/manifest`
 
 [所有图片源](https://raw.githubusercontent.com/nanchengling/eso-repo/master/图片/sub.json)合并后的规则链接：
 

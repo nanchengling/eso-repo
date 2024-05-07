@@ -12,7 +12,7 @@
 
 [mainfest](https://raw.githubusercontent.com/nanchengling/eso-repo/master/manifest) 是所有源合并后的规则，链接：
 
-`https://raw.githubusercontent.com/mabDc/eso_source/master/manifest`
+`https://raw.githubusercontent.com/nanchengling/eso-repo/master/manifest`
 
 网络问题可以使用[jsdelivr cdn](https://www.jsdelivr.com/?docs=gh)，即[mainfest from jsdelivr](https://cdn.jsdelivr.net/gh/nanchengling/eso-repo/manifest)，链接：
 
